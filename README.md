@@ -1,4 +1,4 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](https://cdn.discordapp.com/attachments/996024930921627708/1019912251953643540/unknown.png)
 
 Hi there, thanks for stopping by, this is **Charles Zhang**.
 
