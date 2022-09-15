@@ -1,16 +1,25 @@
-### Hi there 👋
+It's **Simangka**.
 
-<!--
-**Simangka/Simangka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align='right' src="https://avatars.githubusercontent.com/u/89846718?v=4" width="230">
+javascript
+const Simangka = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla", "React"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Node JS", "Django"],
+        databases: ["MySql", "PostgreSQL", "MongoDB"],
+    }
+};
+![Simangka's github stats](https://github-readme-stats.vercel.app/api?username=Simangka&hide=contribs,prs&count_private=true&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Simangka">
+  <img src="https://img.shields.io/github/followers/Simangka">
+</a>
+<a href="https://github.com/Simangka/">
+   <img src="https://komarev.com/ghpvc/?username=Simangka">
+</a>
