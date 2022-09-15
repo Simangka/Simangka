@@ -1,7 +1,7 @@
 It's **Simangka**.
 
 
-<img align='right' src="https://avatars.githubusercontent.com/u/89846718?v=4" width="230">
+<img align='right' src="https://avatars.githubusercontent.com/u/111973893?v=4" width="230">
 ```javascript
 const Simangka = {
     pronouns: "He" | "Him",
