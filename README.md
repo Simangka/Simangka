@@ -19,17 +19,17 @@ const charles = {
 };
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+![Simangka's github stats](https://github-readme-stats.vercel.app/api?username=Simangka&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
+<a href="https://github.com/Simangka">
+  <img src="https://img.shields.io/github/followers/Simangka">
 </a>
 <a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=Simangka">
 </a>
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
 ---
 
-⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
+⭐️ From [@iCharlesZ](https://github.com/Simangka)
