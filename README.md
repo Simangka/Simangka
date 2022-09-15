@@ -2,6 +2,9 @@ It's **Simangka**.
 
 
 <img align='right' src="https://avatars.githubusercontent.com/u/111973893?v=4" width="230">
+
+
+
 ```javascript
 const Simangka = {
     pronouns: "He" | "Him",
@@ -16,6 +19,7 @@ const Simangka = {
     }
 };
 ```
+
 ![Simangka's github stats](https://github-readme-stats.vercel.app/api?username=Simangka&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/Simangka">
