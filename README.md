@@ -6,3 +6,9 @@
     <img src="https://img.shields.io/twitter/follow/simangkaupreti" alt="Twitter Badge"/>
   </a>
 </div>
+<br>
+  <a href="https://twitch.com/simangka">
+    <img src="https://img.shields.io/twitch/extension/v/simangka
+" alt="Twitch Badge"/>
+  </a>
+</div>
