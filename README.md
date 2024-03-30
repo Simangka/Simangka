@@ -1,5 +1,7 @@
 
 <h1>Should ASI be free or fee?<h1>
+<h3 style="color: green;">all i do is use use pytorch and tinygrad</h3>
+
   <hr>
   <h4>Find me Here:<h4>
   <a href="https://www.youtube.com/@simangka">
@@ -15,3 +17,4 @@
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/simangka">
   </a>
 </div>
+
