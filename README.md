@@ -8,6 +8,6 @@
 </div>
 <br>
   <a href="https://twitch.com/simangka">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/:user">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/simangka">
   </a>
 </div>
