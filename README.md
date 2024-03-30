@@ -8,7 +8,7 @@
 </div>
 <br>
   <a href="https://twitch.com/simangka">
-    <img src="https://img.shields.io/twitch/extension/v/simangka
+    <img src="https://img.shields.io/twitch/status/simangka
 " alt="Twitch Badge"/>
   </a>
 </div>
