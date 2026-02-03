@@ -1,146 +1,182 @@
-<div align="center">
-  <svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
-    <rect width="600" height="400" fill="black"/>
-    <path d="M0 400 L100 250 L200 150 L300 300 L400 200 L500 100 L600 400" fill="darkgreen" stroke="green" stroke-width="2"/>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="1.0">C<animate attributeName="y" from="-20" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.9466666666666667">P<animate attributeName="y" from="-40" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.8933333333333333">$<animate attributeName="y" from="-60" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.84">$<animate attributeName="y" from="-80" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.7866666666666666">V<animate attributeName="y" from="-100" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.7333333333333334">G<animate attributeName="y" from="-120" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.6799999999999999">*<animate attributeName="y" from="-140" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.6266666666666667">^<animate attributeName="y" from="-160" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.5733333333333333">5<animate attributeName="y" from="-180" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.52">P<animate attributeName="y" from="-200" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.4666666666666667">F<animate attributeName="y" from="-220" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.41333333333333333">Z<animate attributeName="y" from="-240" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.3599999999999999">β<animate attributeName="y" from="-260" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.30666666666666664">R<animate attributeName="y" from="-280" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="291" y="-20" fill="lime" font-size="20" opacity="0.2533333333333333">Z<animate attributeName="y" from="-300" to="420" dur="5.234270733601887s" begin="3.6121299812830236s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="1.0">R<animate attributeName="y" from="-20" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.9466666666666667">&<animate attributeName="y" from="-40" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.8933333333333333">7<animate attributeName="y" from="-60" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.84">G<animate attributeName="y" from="-80" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.7866666666666666">7<animate attributeName="y" from="-100" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.7333333333333334">8<animate attributeName="y" from="-120" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.6799999999999999">7<animate attributeName="y" from="-140" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.6266666666666667">P<animate attributeName="y" from="-160" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.5733333333333333">L<animate attributeName="y" from="-180" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.52">%<animate attributeName="y" from="-200" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.4666666666666667">A<animate attributeName="y" from="-220" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.41333333333333333">@<animate attributeName="y" from="-240" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.3599999999999999">Q<animate attributeName="y" from="-260" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.30666666666666664">!<animate attributeName="y" from="-280" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="277" y="-20" fill="lime" font-size="20" opacity="0.2533333333333333">(<animate attributeName="y" from="-300" to="420" dur="4.627921415476403s" begin="0.045221568207455265s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="1.0">T<animate attributeName="y" from="-20" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.9466666666666667">3<animate attributeName="y" from="-40" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.8933333333333333">*<animate attributeName="y" from="-60" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.84">J<animate attributeName="y" from="-80" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.7866666666666666">$<animate attributeName="y" from="-100" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.7333333333333334">^<animate attributeName="y" from="-120" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.6799999999999999">S<animate attributeName="y" from="-140" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.6266666666666667">U<animate attributeName="y" from="-160" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.5733333333333333">J<animate attributeName="y" from="-180" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.52">α<animate attributeName="y" from="-200" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.4666666666666667">$<animate attributeName="y" from="-220" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.41333333333333333">6<animate attributeName="y" from="-240" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.3599999999999999">γ<animate attributeName="y" from="-260" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.30666666666666664">B<animate attributeName="y" from="-280" to="420" dur="7.2904887098542295s" begin="3.9229258060718935s" repeatCount="indefinite"/></text>
-<text x="501" y="-20" fill="lime" font-size="20" opacity="0.2533333333333333">)</text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="1.0">*<animate attributeName="y" from="-20" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.9466666666666667">J<animate attributeName="y" from="-40" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.8933333333333333">B<animate attributeName="y" from="-60" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.84">T<animate attributeName="y" from="-80" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.7866666666666666">@<animate attributeName="y" from="-100" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.7333333333333334">W<animate attributeName="y" from="-120" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.6799999999999999">K<animate attributeName="y" from="-140" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.6266666666666667">2<animate attributeName="y" from="-160" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.5733333333333333">D<animate attributeName="y" from="-180" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.52">2<animate attributeName="y" from="-200" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.4666666666666667">Q<animate attributeName="y" from="-220" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.41333333333333333">N<animate attributeName="y" from="-240" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.3599999999999999">X<animate attributeName="y" from="-260" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.30666666666666664">P<animate attributeName="y" from="-280" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="318" y="-20" fill="lime" font-size="20" opacity="0.2533333333333333">^<animate attributeName="y" from="-300" to="420" dur="6.5463714524952294s" begin="3.4566397384462673s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="1.0">F<animate attributeName="y" from="-20" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.9466666666666667">K<animate attributeName="y" from="-40" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.8933333333333333">8<animate attributeName="y" from="-60" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.84">W<animate attributeName="y" from="-80" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.7866666666666666">!<animate attributeName="y" from="-100" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.7333333333333334">B<animate attributeName="y" from="-120" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.6799999999999999">*<animate attributeName="y" from="-140" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.6266666666666667">7<animate attributeName="y" from="-160" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.5733333333333333">W<animate attributeName="y" from="-180" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.52">X<animate attributeName="y" from="-200" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.4666666666666667">^<animate attributeName="y" from="-220" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.41333333333333333">2<animate attributeName="y" from="-240" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.3599999999999999">E<animate attributeName="y" from="-260" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.30666666666666664">β<animate attributeName="y" from="-280" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="598" y="-20" fill="lime" font-size="20" opacity="0.2533333333333333">0<animate attributeName="y" from="-300" to="420" dur="5.00320890283221s" begin="4.283436792195896s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="1.0">X<animate attributeName="y" from="-20" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.9466666666666667">P<animate attributeName="y" from="-40" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.8933333333333333">F<animate attributeName="y" from="-60" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.84">R<animate attributeName="y" from="-80" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.7866666666666666">α<animate attributeName="y" from="-100" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.7333333333333334">8<animate attributeName="y" from="-120" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.6799999999999999">T<animate attributeName="y" from="-140" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.6266666666666667">#<animate attributeName="y" from="-160" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.5733333333333333">Q<animate attributeName="y" from="-180" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.52">F<animate attributeName="y" from="-200" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.4666666666666667">8<animate attributeName="y" from="-220" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.41333333333333333">%<animate attributeName="y" from="-240" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.3599999999999999">F<animate attributeName="y" from="-260" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.30666666666666664">Q<animate attributeName="y" from="-280" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.2533333333333333">5<animate attributeName="y" from="-300" to="420" dur="4.156915303029729s" begin="2.3647727654886164s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="1.0">4<animate attributeName="y" from="-20" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.9466666666666667">#<animate attributeName="y" from="-40" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.8933333333333333">3<animate attributeName="y" from="-60" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.84">G<animate attributeName="y" from="-80" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.7866666666666666">9<animate attributeName="y" from="-100" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.7333333333333334">^<animate attributeName="y" from="-120" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.6799999999999999">N<animate attributeName="y" from="-140" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.6266666666666667">*<animate attributeName="y" from="-160" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.5733333333333333">4<animate attributeName="y" from="-180" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.52">^<animate attributeName="y" from="-200" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.4666666666666667">N<animate attributeName="y" from="-220" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.41333333333333333">%<animate attributeName="y" from="-240" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.3599999999999999">7<animate attributeName="y" from="-260" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.30666666666666664">R<animate attributeName="y" from="-280" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="513" y="-20" fill="lime" font-size="20" opacity="0.2533333333333333">Δ<animate attributeName="y" from="-300" to="420" dur="6.667693845634387s" begin="4.949976246564972s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="1.0">H<animate attributeName="y" from="-20" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.9466666666666667">J<animate attributeName="y" from="-40" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.8933333333333333">F<animate attributeName="y" from="-60" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.84">E<animate attributeName="y" from="-80" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.7866666666666666">N<animate attributeName="y" from="-100" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.7333333333333334">F<animate attributeName="y" from="-120" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.6799999999999999">*<animate attributeName="y" from="-140" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.6266666666666667">B<animate attributeName="y" from="-160" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.5733333333333333">N<animate attributeName="y" from="-180" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.52">8<animate attributeName="y" from="-200" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.4666666666666667">&<animate attributeName="y" from="-220" to="420" dur="5.256514322411388s" begin="2.4665475784594038s" repeatCount="indefinite"/></text>
-<text x="486" y="-20" fill="lime" font-size="20" opacity="0.41333333333333333">^<animate attribute
+<!-- Background -->
+<rect width="800" height="500" fill="url(#skyGradient)"/>
 
+<!-- Stars -->
+<circle cx="50" cy="30" r="1" fill="#ffffff" opacity="0.8">
+  <animate attributeName="opacity" values="0.8;0.3;0.8" dur="3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="150" cy="50" r="1.5" fill="#ffffff" opacity="0.6">
+  <animate attributeName="opacity" values="0.6;0.9;0.6" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="300" cy="20" r="1" fill="#ffffff" opacity="0.7"/>
+<circle cx="450" cy="40" r="1.2" fill="#ffffff" opacity="0.5">
+  <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="600" cy="35" r="1" fill="#ffffff" opacity="0.8"/>
+<circle cx="700" cy="25" r="1.3" fill="#ffffff" opacity="0.6">
+  <animate attributeName="opacity" values="0.6;0.3;0.6" dur="3.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="250" cy="60" r="1" fill="#ffffff" opacity="0.7"/>
+<circle cx="550" cy="55" r="1.1" fill="#ffffff" opacity="0.5"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=👋+Welcome" alt="Typing SVG" />
-</div>
+<!-- Mountain ranges (back to front) -->
+<!-- Far mountains -->
+<path d="M0 400 L150 280 L300 320 L450 260 L600 300 L750 250 L800 280 L800 500 L0 500 Z" 
+      fill="#0a1929" opacity="0.6"/>
 
-<h1 align="center">-------------------------</h1>
-<h3 align="center" style="color: green;">----------------------</h3>
-<hr>
+<!-- Middle mountains -->
+<path d="M0 450 L100 350 L200 320 L350 380 L500 300 L650 360 L800 320 L800 500 L0 500 Z" 
+      fill="url(#mountainGradient)" opacity="0.8"/>
 
-<h4 align="center">Find me Here:</h4>
+<!-- Front mountains with glow -->
+<path d="M0 480 L120 380 L200 400 L300 340 L400 420 L550 360 L700 420 L800 380 L800 500 L0 500 Z" 
+      fill="#16213e" filter="url(#glow)"/>
 
-<a href="https://www.youtube.com/@simangka">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</a>
-<br>
-<a href="https://x.com/simangkaupreti">
-  <img src="https://img.shields.io/twitter/follow/simangkaupreti" alt="Twitter Badge"/>
-</a>
-<br>
-<a href="https://twitch.com/simangka">
-  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/simangka">
-</a>
+<!-- Matrix rain columns -->
+<!-- Column 1 -->
+<text x="50" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="1.0" filter="url(#glow)">
+  ⛰<animate attributeName="y" from="-20" to="520" dur="6.2s" begin="0s" repeatCount="indefinite"/>
+</text>
+<text x="50" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.8">
+  ▲<animate attributeName="y" from="-50" to="520" dur="6.2s" begin="0s" repeatCount="indefinite"/>
+</text>
+<text x="50" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.6">
+  ∆<animate attributeName="y" from="-80" to="520" dur="6.2s" begin="0s" repeatCount="indefinite"/>
+</text>
+<text x="50" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.4">
+  ^<animate attributeName="y" from="-110" to="520" dur="6.2s" begin="0s" repeatCount="indefinite"/>
+</text>
+<text x="50" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.2">
+  /\<animate attributeName="y" from="-140" to="520" dur="6.2s" begin="0s" repeatCount="indefinite"/>
+</text>
 
-<br>
+<!-- Column 2 -->
+<text x="150" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="1.0" filter="url(#glow)">
+  🏔<animate attributeName="y" from="-20" to="520" dur="5.8s" begin="1.2s" repeatCount="indefinite"/>
+</text>
+<text x="150" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.8">
+  ⛰<animate attributeName="y" from="-50" to="520" dur="5.8s" begin="1.2s" repeatCount="indefinite"/>
+</text>
+<text x="150" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.6">
+  ▲<animate attributeName="y" from="-80" to="520" dur="5.8s" begin="1.2s" repeatCount="indefinite"/>
+</text>
+<text x="150" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.4">
+  ∆<animate attributeName="y" from="-110" to="520" dur="5.8s" begin="1.2s" repeatCount="indefinite"/>
+</text>
+<text x="150" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.2">
+  ^<animate attributeName="y" from="-140" to="520" dur="5.8s" begin="1.2s" repeatCount="indefinite"/>
+</text>
+
+<!-- Column 3 -->
+<text x="250" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="1.0" filter="url(#glow)">
+  ▲<animate attributeName="y" from="-20" to="520" dur="7.1s" begin="2.4s" repeatCount="indefinite"/>
+</text>
+<text x="250" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.8">
+  ⛰<animate attributeName="y" from="-50" to="520" dur="7.1s" begin="2.4s" repeatCount="indefinite"/>
+</text>
+<text x="250" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.6">
+  🏔<animate attributeName="y" from="-80" to="520" dur="7.1s" begin="2.4s" repeatCount="indefinite"/>
+</text>
+<text x="250" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.4">
+  ∆<animate attributeName="y" from="-110" to="520" dur="7.1s" begin="2.4s" repeatCount="indefinite"/>
+</text>
+<text x="250" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.2">
+  /\<animate attributeName="y" from="-140" to="520" dur="7.1s" begin="2.4s" repeatCount="indefinite"/>
+</text>
+
+<!-- Column 4 -->
+<text x="350" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="1.0" filter="url(#glow)">
+  🏔<animate attributeName="y" from="-20" to="520" dur="6.5s" begin="0.8s" repeatCount="indefinite"/>
+</text>
+<text x="350" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.8">
+  ▲<animate attributeName="y" from="-50" to="520" dur="6.5s" begin="0.8s" repeatCount="indefinite"/>
+</text>
+<text x="350" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.6">
+  ⛰<animate attributeName="y" from="-80" to="520" dur="6.5s" begin="0.8s" repeatCount="indefinite"/>
+</text>
+<text x="350" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.4">
+  ^<animate attributeName="y" from="-110" to="520" dur="6.5s" begin="0.8s" repeatCount="indefinite"/>
+</text>
+<text x="350" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.2">
+  ∆<animate attributeName="y" from="-140" to="520" dur="6.5s" begin="0.8s" repeatCount="indefinite"/>
+</text>
+
+<!-- Column 5 -->
+<text x="450" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="1.0" filter="url(#glow)">
+  ∆<animate attributeName="y" from="-20" to="520" dur="5.3s" begin="3.1s" repeatCount="indefinite"/>
+</text>
+<text x="450" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.8">
+  🏔<animate attributeName="y" from="-50" to="520" dur="5.3s" begin="3.1s" repeatCount="indefinite"/>
+</text>
+<text x="450" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.6">
+  ▲<animate attributeName="y" from="-80" to="520" dur="5.3s" begin="3.1s" repeatCount="indefinite"/>
+</text>
+<text x="450" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.4">
+  ⛰<animate attributeName="y" from="-110" to="520" dur="5.3s" begin="3.1s" repeatCount="indefinite"/>
+</text>
+<text x="450" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.2">
+  ^<animate attributeName="y" from="-140" to="520" dur="5.3s" begin="3.1s" repeatCount="indefinite"/>
+</text>
+
+<!-- Column 6 -->
+<text x="550" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="1.0" filter="url(#glow)">
+  ⛰<animate attributeName="y" from="-20" to="520" dur="6.9s" begin="1.8s" repeatCount="indefinite"/>
+</text>
+<text x="550" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.8">
+  ∆<animate attributeName="y" from="-50" to="520" dur="6.9s" begin="1.8s" repeatCount="indefinite"/>
+</text>
+<text x="550" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.6">
+  🏔<animate attributeName="y" from="-80" to="520" dur="6.9s" begin="1.8s" repeatCount="indefinite"/>
+</text>
+<text x="550" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.4">
+  ▲<animate attributeName="y" from="-110" to="520" dur="6.9s" begin="1.8s" repeatCount="indefinite"/>
+</text>
+<text x="550" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.2">
+  /\<animate attributeName="y" from="-140" to="520" dur="6.9s" begin="1.8s" repeatCount="indefinite"/>
+</text>
+
+<!-- Column 7 -->
+<text x="650" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="1.0" filter="url(#glow)">
+  🏔<animate attributeName="y" from="-20" to="520" dur="5.6s" begin="2.7s" repeatCount="indefinite"/>
+</text>
+<text x="650" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.8">
+  ⛰<animate attributeName="y" from="-50" to="520" dur="5.6s" begin="2.7s" repeatCount="indefinite"/>
+</text>
+<text x="650" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.6">
+  ▲<animate attributeName="y" from="-80" to="520" dur="5.6s" begin="2.7s" repeatCount="indefinite"/>
+</text>
+<text x="650" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.4">
+  ∆<animate attributeName="y" from="-110" to="520" dur="5.6s" begin="2.7s" repeatCount="indefinite"/>
+</text>
+<text x="650" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.2">
+  ^<animate attributeName="y" from="-140" to="520" dur="5.6s" begin="2.7s" repeatCount="indefinite"/>
+</text>
+
+<!-- Column 8 -->
+<text x="750" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="1.0" filter="url(#glow)">
+  ▲<animate attributeName="y" from="-20" to="520" dur="6.7s" begin="0.5s" repeatCount="indefinite"/>
+</text>
+<text x="750" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.8">
+  🏔<animate attributeName="y" from="-50" to="520" dur="6.7s" begin="0.5s" repeatCount="indefinite"/>
+</text>
+<text x="750" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.6">
+  ⛰<animate attributeName="y" from="-80" to="520" dur="6.7s" begin="0.5s" repeatCount="indefinite"/>
+</text>
+<text x="750" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.4">
+  ∆<animate attributeName="y" from="-110" to="520" dur="6.7s" begin="0.5s" repeatCount="indefinite"/>
+</text>
+<text x="750" y="-20" fill="#00ff41" font-family="monospace" font-size="14" opacity="0.2">
+  /\<animate attributeName="y" from="-140" to="520" dur="6.7s" begin="0.5s" repeatCount="indefinite"/>
+</text>
+
+<!-- Central title text with glowing effect -->
+<text x="400" y="250" font-family="monospace" font-size="48" fill="#00ff41" 
+      text-anchor="middle" font-weight="bold" filter="url(#glow)">
+  SIMANGKA
+  <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
+</text>
+
+<text x="400" y="290" font-family="monospace" font-size="20" fill="#00cc33" 
+      text-anchor="middle" opacity="0.9">
+  ~ Mountain Code Explorer ~
+</text>
