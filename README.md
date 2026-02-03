@@ -16,29 +16,13 @@
 └─────────────────────────────────────────┘
 ```
 
-<br>
+<br><br>
 
-### **S I M A N G K A**
-
-<br>
-
-```
-         .
-        ":"
-      ___:____     |"\/"|
-    ,'        `.    \  /
-    |  O        \___/  |
-  ~^~^~^~^~^~^~^~^~^~^~^~^~
-```
-
-*Building artificial general pathways*  
-*One neural connection at a time*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Booting+systems...;Connecting+neural+nodes...;Mounting+intelligence...;Ready.)](https://git.io/typing-svg)
 
 <br><br>
 
----
-
-### **// NETWORK NODES**
+### **NETWORK NODES**
 
 <br>
 
@@ -54,34 +38,6 @@
   <img src="https://img.shields.io/badge/TWITCH-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" height="35"/>
 </a>
 
-<br><br>
-
----
-
-<br>
-
-```
-STATUS: ONLINE
-LOCATION: KATHMANDU.NPL
-MODE: DEEP_WORK
-```
-
-<br>
-
-```javascript
-while (alive) {
-    learn();
-    build();
-    share();
-}
-```
-
-<br><br>
-
----
-
-<sub>*The future is being written in code. I'm just holding the pen.*</sub>
-
-<br><br>
+<br><br><br>
 
 </div>
