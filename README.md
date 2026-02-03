@@ -1,74 +1,77 @@
-<div align="center">
-  
-<!-- Matrix-style animated header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=100&lines=WELCOME+TO+THE+MATRIX;SIMANGKA.EXE;INITIALIZING+CONNECTION...;ACCESS+GRANTED" alt="Matrix Typing SVG" />
-
-<!-- Glitch divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<div align="center">
-  
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> SYSTEM STATUS: ONLINE <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-
-</div>
-
-```ascii
-█▀▄▀█ ▄▀█ ▀█▀ █▀█ █ ▀▄▀   █▀▀ █▀█ █▀▄ █▀▀
-█ ▀ █ █▀█  █  █▀▄ █ █ █   █▄▄ █▄█ █▄▀ ██▄
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
->>> Downloading consciousness...
->>> [████████████████████████] 100%
->>> Connection established.
-```
+<!-- 
+  Design Philosophy:
+  - Minimal cognitive load (Psychology)
+  - Visual hierarchy and negative space (Design)
+  - Elegant simplicity, like physics equations (Physics)
+-->
 
 <div align="center">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> NEURAL LINK ESTABLISHED
+# Simangka Upreti
 
-<a href="https://www.youtube.com/@simangka">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="Youtube Badge"/>
-</a>
-<a href="https://x.com/simangkaupreti">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter Badge"/>
-</a>
-<a href="https://twitch.com/simangka">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=000000" alt="Twitch Badge"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7086&center=true&vCenter=true&width=435&lines=Building+things+that+matter;Streaming+the+process)](https://git.io/typing-svg)
+
+---
+
+### Connect
+
+<a href="https://www.youtube.com/@simangka"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white" height="28"/></a>
+&nbsp;&nbsp;
+<a href="https://x.com/simangkaupreti"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" height="28"/></a>
+&nbsp;&nbsp;
+<a href="https://twitch.com/simangka"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" height="28"/></a>
 
 <br>
 
-<img src="https://img.shields.io/twitter/follow/simangkaupreti?style=social&logo=twitter" alt="Twitter Follow"/>
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/simangka?style=social&logo=twitch">
+![](https://komarev.com/ghpvc/?username=simangka&color=blueviolet&style=flat-square&label=Profile+Views)
+
+---
 
 </div>
+
+## Currently
+
+```javascript
+const simangka = {
+    location: "Nepal 🇳🇵",
+    focus: ["Building", "Learning", "Creating"],
+    streaming: true,
+    
+    working_on: function() {
+        return "Things worth sharing";
+    },
+    
+    learning: function() {
+        return "Always something new";
+    }
+};
+```
+
+<br>
 
 <div align="center">
-  
-<!-- Matrix rain animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-### 💚 `FOLLOW THE WHITE RABBIT` 💚
+### Principles
 
-```
-   _____ _____ __  __          _   _  _____ _  __          
-  / ____|_   _|  \/  |   /\   | \ | |/ ____| |/ /    /\    
- | (___   | | | \  / |  /  \  |  \| | |  __| ' /    /  \   
-  \___ \  | | | |\/| | / /\ \ | . ` | | |_ |  <    / /\ \  
-  ____) |_| |_| |  | |/ ____ \| |\  | |__| | . \  / ____ \ 
- |_____/|_____|_|  |_/_/    \_\_| \_|\_____|_|\_\/_/    \_\
-```
+> **"Make it work, make it right, make it fast."**  
+> *— Kent Beck*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=See%20You%20in%20the%20Matrix&fontSize=30&fontColor=00FF41&animation=twinkling" width="100%">
+<br>
 
-</div>
+**Simple** · **Functional** · **Honest**
 
-<!-- Visitor counter with Matrix theme -->
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/simangka/count.svg)
+<br>
 
-**"There is no spoon"** 🥄
+---
+
+<sub>Built with intention, not just code.</sub>
 
 </div>
+
+<!-- 
+  Why this works:
+  - Zero fluff, maximum signal (Physics: signal-to-noise ratio)
+  - Clear visual breathing room (Design: whitespace is a feature)
+  - Authentic, not performative (Psychology: genuine beats fake every time)
+  - Professional but human (Psychology: relatability + competence)
+-->
